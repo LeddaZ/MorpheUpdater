@@ -1,4 +1,10 @@
 # Morphe Updater
+> [!warning]
+> **DISCONTINUATION NOTICE**
+>
+> The project has been discontinued. You can read more about it [here](https://t.me/LeddaZchannel/354).
+>
+> TLDR: the official Morphe app is better, I recommend using that. Thanks for using my Updater over the years!
 
 Updater for my Morphe builds, you can find more
 info [here](https://github.com/LeddaZ/morphe-repo).
